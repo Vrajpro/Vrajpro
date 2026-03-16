@@ -51,4 +51,4 @@ BCA – Uka Tarsadia University
 
 ## Contact
 
-Email: your-email@example.com
+Email: parekhvraj45@gmail.com
