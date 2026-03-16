@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Vraj Parekh 👋
 
-<!--
-**Vrajpro/Vrajpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Data Science Student  
+📊 Interested in Data Science, Machine Learning and Big Data  
+📍 Based in the United Kingdom
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am currently pursuing an MSc in Data Science and enjoy building intelligent systems using data and machine learning. I have worked on research projects, big data pipelines and analytical systems.
+
+---
+
+## Research
+
+• AI-Based Weight Management System  
+Presented at the International Conference on Computational Complexity and Intelligent Algorithms (IC3IA 2025)
+
+• Artificial Intelligence Review Paper  
+Published October 2024
+
+---
+
+## Current Focus
+
+• Machine Learning  
+• Data Analysis  
+• Big Data Processing  
+• Research in AI systems
+
+---
+
+## Skills
+
+Python  
+SQL  
+Machine Learning  
+PySpark  
+Data Analysis  
+Git & GitHub
+
+---
+
+## Education
+
+MSc Data Science – Coventry University  
+BCA – Uka Tarsadia University
+
+---
+
+## Contact
+
+Email: your-email@example.com
